@@ -2,7 +2,7 @@
 
 💬 Opinions and views here are my own, not of my employer!
 
-:alien: I've been working with relational database since 2007.
+:alien: I've been working with relational database since 2005.
 
 :snake: I started to study Python at 2021 and it was love at first sight :gift_heart:
 
