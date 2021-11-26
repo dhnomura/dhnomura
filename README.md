@@ -8,7 +8,7 @@
 
 :pray: I also changed my career from Relational Database to Cloud Focused
 
-:octocat: Love share projects on github, feel free to fork a project or contributed with me on my own projects
+:octocat: Love share projects on github, feel free to fork a project or contribut with me on my own projects
 
 📫 How to reach me: https://www.linkedin.com/in/diogo-nomura/
 
